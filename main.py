@@ -6,7 +6,7 @@ Writes a single word to /output/entry.txt: the verdict on an ex.
 
 import os
 
-ENTRY = "Unsubscribe"
+ENTRY = "Recalled"
 
 
 def main() -> None:
